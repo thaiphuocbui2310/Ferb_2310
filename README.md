@@ -1,6 +1,6 @@
 # Bui Thai Phuoc — Personal Portfolio
 
-🌐 **Live:** [https://thaiphuocbui.github.io/portfolio](https://thaiphuocbui.github.io/portfolio)
+🌐 **Live:** [https://thaiphuocbui2310.github.io/Ferb_2310](https://thaiphuocbui2310.github.io/Ferb_2310/)
 
 A clean, responsive personal portfolio website built with pure **HTML, CSS & JavaScript** — no frameworks, no build tools required.
 
