@@ -4,11 +4,11 @@
 
 // ---- Typewriter Effect ----
 const phrases = [
-  'FPGA Engineer (in training)',
-  'Verilog / RTL Designer',
+  'SoC / RTL Design Engineer (Aspiring)',
+  'Verilog / FPGA Developer',
+  'Design Verification Enthusiast',
   'Embedded Systems Developer',
-  'RISC-V SoC Enthusiast',
-  'IoT & Hardware Hacker',
+  'RISC-V SoC Explorer',
 ];
 let phraseIndex = 0;
 let charIndex = 0;

@@ -405,6 +405,36 @@ img { max-width: 100%; display: block; }
 .edu-card p  { font-size: 0.85rem; color: var(--text-muted); margin: 0; }
 .edu-card span { font-size: 0.8rem; color: var(--accent2); font-family: 'Fira Code', monospace; }
 
+.career-focus {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: linear-gradient(135deg, rgba(0,212,255,0.08), rgba(123,97,255,0.08));
+  border: 1px solid rgba(0, 212, 255, 0.25);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  margin-bottom: 16px;
+}
+.career-focus i {
+  font-size: 1.2rem;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+.career-focus strong {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  margin-bottom: 3px;
+}
+.career-focus span {
+  font-size: 0.9rem;
+  color: var(--accent);
+  font-weight: 600;
+  font-family: 'Fira Code', monospace;
+}
+
 .about-coursework {
   font-size: 0.85rem;
   color: var(--text-muted);
@@ -412,6 +442,7 @@ img { max-width: 100%; display: block; }
   padding: 14px 18px;
   border-radius: var(--radius);
   border-left: 3px solid var(--accent);
+  line-height: 1.8;
 }
 .about-coursework strong { color: var(--text); }
 
